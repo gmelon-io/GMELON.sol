@@ -1,8 +1,11 @@
-# Safemoon.sol
-safemoon contract
-Safemoon protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. A fork from BEE with some added benefits.
-First, the dev has minted the tokens - sent the balance to DxSale for fair launch - and then burned the remainder of the tokens. Dev had to partake in presale.
-Second, utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for 4 years.
-Simple tokenomics and elegant design and production of token information has catered to the overall success of the project.
-100% community owned and driven - no rug is possible. 
-#safemoon join us on our journey safely to the moon!
+# GMELON.sol
+
+GMELON contract
+
+GMELON is how we greet each other everyday.
+
+Forked from first ever GM (good morning) token, which was 100% fully fair launched with no presale, no white list, and no team tokens. 50% of the supply was burnt at launch and the remaining 50% of the supply was added to liquidity on uniswap and locked with team finance.
+
+$GMELON was created to pay respects to Elon Musk, the founder of Tesla, who has been a staunch supporter of everything crypto.
+
+1% of every transaction amount will be sent directly to Elon Musk wallet.
